@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L0gD
 - 👀 I’m interested in Analyses Data, Machine Learning, and any kind of programming language especially r (so basically i'm just a newbie in this field ^^)
-- 🌱 I’m currently learning Statistician
+- 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on any kind i'm interested
 - 📫 How to reach me? Only in this github for now ;)
 
